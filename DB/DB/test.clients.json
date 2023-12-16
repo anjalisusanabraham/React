@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "652d2546365001d32e667aa7"
+  },
+  "removed": false,
+  "enabled": true,
+  "company": "NYX Coders",
+  "managerName": "Manohar",
+  "managerSurname": "Brijith",
+  "phone": "7006726358",
+  "email": "bmrty@gmail.com",
+  "customField": [],
+  "created": {
+    "$date": "2023-10-16T11:57:58.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d2652365001d32e667b11"
+  },
+  "removed": false,
+  "enabled": true,
+  "company": "LAL Associates",
+  "managerName": "LAL",
+  "managerSurname": "Mohith",
+  "phone": "8009007001",
+  "email": "mlpreetham@gmail.com",
+  "customField": [],
+  "created": {
+    "$date": "2023-10-16T12:02:26.121Z"
+  },
+  "__v": 0
+}]

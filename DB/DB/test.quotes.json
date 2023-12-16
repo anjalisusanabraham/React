@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "652d25ce365001d32e667aea"
+  },
+  "removed": false,
+  "converted": false,
+  "number": 1,
+  "year": 2023,
+  "date": {
+    "$date": "2023-10-16T11:59:03.296Z"
+  },
+  "expiredDate": {
+    "$date": "2023-11-15T11:59:03.296Z"
+  },
+  "client": {
+    "$oid": "652d2546365001d32e667aa7"
+  },
+  "items": [
+    {
+      "itemName": "Node Custom Module1",
+      "description": "Test Description",
+      "quantity": 1,
+      "price": 560000,
+      "total": 560000,
+      "_id": {
+        "$oid": "652d25ce365001d32e667aeb"
+      }
+    }
+  ],
+  "taxRate": 0,
+  "subTotal": 560000,
+  "taxTotal": 0,
+  "total": 560000,
+  "credit": 0,
+  "discount": 0,
+  "note": "TestNote",
+  "status": "draft",
+  "pdfPath": "invoice-652d25ce365001d32e667aea.pdf",
+  "updated": {
+    "$date": "2023-10-16T12:00:14.335Z"
+  },
+  "created": {
+    "$date": "2023-10-16T12:00:14.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d26b7365001d32e667b22"
+  },
+  "removed": false,
+  "converted": false,
+  "number": 1,
+  "year": 2023,
+  "date": {
+    "$date": "2023-10-16T12:02:41.375Z"
+  },
+  "expiredDate": {
+    "$date": "2023-11-15T12:02:41.375Z"
+  },
+  "client": {
+    "$oid": "652d2546365001d32e667aa7"
+  },
+  "items": [
+    {
+      "itemName": "PHP Web Site",
+      "description": "Test PHP Website1",
+      "quantity": 1,
+      "price": 800000,
+      "total": 800000,
+      "_id": {
+        "$oid": "652d26b7365001d32e667b23"
+      }
+    },
+    {
+      "itemName": "Domain & Host",
+      "description": "Purchase from Godaddy",
+      "quantity": 1,
+      "price": 12000,
+      "total": 12000,
+      "_id": {
+        "$oid": "652d26b7365001d32e667b24"
+      }
+    }
+  ],
+  "taxRate": 0,
+  "subTotal": 812000,
+  "taxTotal": 0,
+  "total": 812000,
+  "credit": 0,
+  "discount": 0,
+  "note": "Test Accepted Quote",
+  "status": "accepted",
+  "pdfPath": "invoice-652d26b7365001d32e667b22.pdf",
+  "updated": {
+    "$date": "2023-10-16T12:04:07.276Z"
+  },
+  "created": {
+    "$date": "2023-10-16T12:04:07.276Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "652d221e365001d32e667a02"
+  },
+  "removed": false,
+  "enabled": true,
+  "isDefault": false,
+  "name": "Netbanking",
+  "description": "Net banking Mode",
+  "created": {
+    "$date": "2023-10-16T11:44:30.692Z"
+  },
+  "__v": 0
+}]

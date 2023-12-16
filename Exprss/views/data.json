@@ -1,0 +1,70 @@
+{
+    name : 'Arun',
+    class : 'Plus one',
+    stream : 'science',
+    mark : 90,
+    grade : 'A plus'
+}
+{
+    name : 'Anu',
+    class : 'Plus one',
+    stream : 'science',
+    mark : 80,
+    grade : 'B plus'
+}
+{
+    name : 'Bindhu',
+    class : 'Plus one',
+    stream : 'science',
+    mark : 91,
+    grade : 'A '
+}
+{
+    name : 'Mini',
+    class : 'Plus one',
+    stream : 'science',
+    mark : 95,
+    grade : 'A plus'
+}
+{
+    name : 'Vinsha',
+    class : 'Plus one',
+    stream : 'science',
+    mark : 99,
+    grade : 'A plus'
+}
+{
+    name : 'Nayana',
+    class : 'Plus one',
+    stream : 'science',
+    mark : 87,
+    grade : ' A'
+}
+{
+    name : 'Fidha',
+    class : 'Plus one',
+    stream : 'science',
+    mark : 75,
+    grade : 'B'
+}
+{
+    name : 'Shiji',
+    class : 'Plus one',
+    stream : 'science',
+    mark : 91,
+    grade : 'A plus'
+}
+{
+    name : 'Vibin',
+    class : 'Plus one',
+    stream : 'science',
+    mark : 95,
+    grade : 'A plus'
+}
+{
+    name : 'Athul',
+    class : 'Plus one',
+    stream : 'science',
+    mark : 70,
+    grade : 'c plus'
+}

@@ -1,0 +1,428 @@
+[{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad414"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "money_format_settings",
+  "settingKey": "thousand_sep",
+  "settingValue": ",",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad3fb"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "app_settings",
+  "settingKey": "email_settings",
+  "settingValue": {
+    "smtpServer": "smtp.example.com",
+    "port": 587,
+    "username": "example@example.com",
+    "password": "mysecretpassword"
+  },
+  "valueType": "object",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad3f9"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "app_settings",
+  "settingKey": "language",
+  "settingValue": "en_us",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad3fa"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "app_settings",
+  "settingKey": "allowed_role",
+  "settingValue": "admin,staff,guest",
+  "valueType": "array",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad3f8"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "app_settings",
+  "settingKey": "app_name",
+  "settingValue": "CSProfessional",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad401"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "company_settings",
+  "settingKey": "company_cell",
+  "settingValue": "+1 345234654",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad405"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "company_settings",
+  "settingKey": "company_vat_number",
+  "settingValue": "91231255234",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad408"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "finance_settings",
+  "settingKey": "last_invoice_number",
+  "settingValue": 1,
+  "valueType": "number",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad413"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "money_format_settings",
+  "settingKey": "decimal_sep",
+  "settingValue": ".",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad415"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "money_format_settings",
+  "settingKey": "cent_precision",
+  "settingValue": 2,
+  "valueType": "number",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad3fc"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "company_settings",
+  "settingKey": "company_name",
+  "settingValue": "IDURAR",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad409"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "finance_settings",
+  "settingKey": "last_quote_number",
+  "settingValue": 1,
+  "valueType": "number",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad404"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "company_settings",
+  "settingKey": "company_tax_number",
+  "settingValue": "91231255234",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad3fd"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "company_settings",
+  "settingKey": "company_logo",
+  "settingValue": "https://cybersquare.org/assets/frontend/images/logo.svg",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad403"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "company_settings",
+  "settingKey": "company_country",
+  "settingValue": "India",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad40c"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "finance_settings",
+  "settingKey": "current_quote_year",
+  "settingValue": 2023,
+  "valueType": "number",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad400"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "company_settings",
+  "settingKey": "company_phone",
+  "settingValue": "+1 345234654",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad410"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "money_format_settings",
+  "settingKey": "currency",
+  "settingValue": "INR",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad416"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "money_format_settings",
+  "settingKey": "zero_format",
+  "settingValue": false,
+  "valueType": "boolean",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad40d"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "finance_settings",
+  "settingKey": "current_offer_year",
+  "settingValue": 2023,
+  "valueType": "number",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad406"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "company_settings",
+  "settingKey": "company_reg_number",
+  "settingValue": "00001231421",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad40b"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "finance_settings",
+  "settingKey": "current_invoice_year",
+  "settingValue": 2023,
+  "valueType": "number",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad40e"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "crm_settings",
+  "settingKey": "lead_source",
+  "settingValue": [
+    "recomendation",
+    "facebook",
+    "linkedin",
+    "newsletter",
+    "website"
+  ],
+  "valueType": "array",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad407"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "finance_settings",
+  "settingKey": "currency_list",
+  "settingValue": [
+    "eur",
+    "usd",
+    "gpd",
+    "inr",
+    "dzd",
+    "cad"
+  ],
+  "valueType": "array",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad3fe"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "company_settings",
+  "settingKey": "company_address",
+  "settingValue": "25 , Rue de G , Oran 31009 ",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad3ff"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "company_settings",
+  "settingKey": "company_email",
+  "settingValue": "hello@idurarapp.com",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad402"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "company_settings",
+  "settingKey": "company_website",
+  "settingValue": "www.idurarapp.com",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad40f"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "crm_settings",
+  "settingKey": "lead_status",
+  "settingValue": [
+    "new",
+    "contacted",
+    "waiting",
+    "in negosation",
+    "won",
+    "loose"
+  ],
+  "valueType": "array",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad40a"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "finance_settings",
+  "settingKey": "last_offer_number",
+  "settingValue": 1,
+  "valueType": "number",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad411"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "money_format_settings",
+  "settingKey": "currency_symbol",
+  "settingValue": "₹",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad412"
+  },
+  "removed": false,
+  "enabled": true,
+  "settingCategory": "money_format_settings",
+  "settingKey": "currency_position",
+  "settingValue": "before",
+  "valueType": "string",
+  "isCoreSetting": true,
+  "__v": 0
+}]

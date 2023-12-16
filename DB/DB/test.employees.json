@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "652d243f365001d32e667a78"
+  },
+  "removed": false,
+  "enabled": true,
+  "name": "Mikhael",
+  "surname": "Sonny",
+  "birthday": {
+    "$date": "2023-10-16T11:52:07.907Z"
+  },
+  "birthplace": "Mumbai",
+  "gender": "men",
+  "department": "QA",
+  "position": "QA Lead Engineer",
+  "address": "Test Addr",
+  "state": "Maharastra",
+  "phone": "9807765654",
+  "email": "sony@gmail.com",
+  "status": "1",
+  "created": {
+    "$date": "2023-10-16T11:53:35.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d24a8365001d32e667a80"
+  },
+  "removed": false,
+  "enabled": true,
+  "name": "Annie",
+  "surname": "Anjali",
+  "birthday": {
+    "$date": "2023-10-09T11:54:08.893Z"
+  },
+  "birthplace": "Kerala",
+  "gender": "women",
+  "department": "UI/UX",
+  "position": "Senior UX",
+  "address": "Test Addr",
+  "state": "Kerala",
+  "phone": "9234234314",
+  "email": "annie@ymail.com",
+  "status": "1",
+  "created": {
+    "$date": "2023-10-16T11:55:20.909Z"
+  },
+  "__v": 0
+}]

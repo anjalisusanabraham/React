@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "652d3608365001d32e667cce"
+  },
+  "removed": false,
+  "number": 1,
+  "client": {
+    "$oid": "652d2546365001d32e667aa7"
+  },
+  "invoice": {
+    "$oid": "652d2748365001d32e667b60"
+  },
+  "date": {
+    "$date": "2023-11-15T13:08:52.848Z"
+  },
+  "amount": 14500,
+  "paymentMode": {
+    "$oid": "652d221e365001d32e667a02"
+  },
+  "ref": "TestRef001",
+  "description": "Payed",
+  "updated": {
+    "$date": "2023-10-16T13:09:28.710Z"
+  },
+  "created": {
+    "$date": "2023-10-16T13:09:28.711Z"
+  },
+  "__v": 0
+}]

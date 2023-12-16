@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad41a"
+  },
+  "emailKey": "email_quote_default",
+  "emailName": "Quote Email",
+  "emailVariables": [
+    "name",
+    "time"
+  ],
+  "emailBody": "<p>email_quote_default</p>",
+  "emailSubject": "Quote From Idurar",
+  "language": "en",
+  "removed": false,
+  "enabled": true,
+  "created": {
+    "$date": "2023-10-15T11:03:26.570Z"
+  },
+  "updated": {
+    "$date": "2023-10-15T11:03:26.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad419"
+  },
+  "emailKey": "email_invoice_default",
+  "emailName": "Invoice Email",
+  "emailVariables": [
+    "name",
+    "time"
+  ],
+  "emailBody": "<p>email_invoice_default</p>",
+  "emailSubject": "Invoice From Idurar",
+  "language": "en",
+  "removed": false,
+  "enabled": true,
+  "created": {
+    "$date": "2023-10-15T11:03:26.570Z"
+  },
+  "updated": {
+    "$date": "2023-10-15T11:03:26.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad41b"
+  },
+  "emailKey": "email_offer_default",
+  "emailName": "Offer Email",
+  "emailVariables": [],
+  "emailBody": "<p>email_offer_default</p>",
+  "emailSubject": "Invoice From Idurar",
+  "language": "en",
+  "removed": false,
+  "enabled": true,
+  "created": {
+    "$date": "2023-10-15T11:03:26.570Z"
+  },
+  "updated": {
+    "$date": "2023-10-15T11:03:26.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad41d"
+  },
+  "emailKey": "email_signup_email_confirm_default",
+  "emailName": "Signup Confirmation Email",
+  "emailVariables": [
+    "name"
+  ],
+  "emailBody": "<p>email_signup_email_confirm_default</p>",
+  "emailSubject": "Signup Confirmation From Idurar",
+  "language": "en",
+  "removed": false,
+  "enabled": true,
+  "created": {
+    "$date": "2023-10-15T11:03:26.571Z"
+  },
+  "updated": {
+    "$date": "2023-10-15T11:03:26.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad41c"
+  },
+  "emailKey": "email_payment_receipt_default",
+  "emailName": "Payment Email",
+  "emailVariables": [
+    "name",
+    "time"
+  ],
+  "emailBody": "<p>email_payment_receipt_default</p>",
+  "emailSubject": "Payment From Idurar",
+  "language": "en",
+  "removed": false,
+  "enabled": true,
+  "created": {
+    "$date": "2023-10-15T11:03:26.571Z"
+  },
+  "updated": {
+    "$date": "2023-10-15T11:03:26.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad41e"
+  },
+  "emailKey": "email_reset_password_default",
+  "emailName": "Password Reset Email",
+  "emailVariables": [
+    "name"
+  ],
+  "emailBody": "<p>email_reset_password_default</p>",
+  "emailSubject": "Password Reset  From Idurar",
+  "language": "en",
+  "removed": false,
+  "enabled": true,
+  "created": {
+    "$date": "2023-10-15T11:03:26.571Z"
+  },
+  "updated": {
+    "$date": "2023-10-15T11:03:26.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652bc6fe9fc3efdaf46ad41f"
+  },
+  "emailKey": "welcome_email_default",
+  "emailName": "Welcome Email",
+  "emailVariables": [
+    "name"
+  ],
+  "emailBody": "<p>welcome_email</p>",
+  "emailSubject": "Welcom From Idurar",
+  "language": "en",
+  "removed": false,
+  "enabled": true,
+  "created": {
+    "$date": "2023-10-15T11:03:26.571Z"
+  },
+  "updated": {
+    "$date": "2023-10-15T11:03:26.571Z"
+  },
+  "__v": 0
+}]

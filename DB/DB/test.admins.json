@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "652bc6f39fc3efdaf46ad3f4"
+  },
+  "removed": false,
+  "enabled": true,
+  "password": "$2a$10$WrctJYP5.XJHEwJ1Bfvqz.G9Gxx0MO9oH/0ayR6BqiI5ukqdsUlfG",
+  "email": "admin@demo.com",
+  "name": "salah eddine",
+  "surname": "lalami",
+  "role": "admin",
+  "loggedSessions": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1MmJjNmYzOWZjM2VmZGFmNDZhZDNmNCIsImlhdCI6MTY5NzM2ODY2OSwiZXhwIjoxNzI4OTA0NjY5fQ.e3Ptxbl6Yp0kKLCjn7XH1XpFhngfmKr8RGxiLv_YxBA",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1MmJjNmYzOWZjM2VmZGFmNDZhZDNmNCIsImlhdCI6MTY5NzQ1NjQ2OCwiZXhwIjoxNzI4OTkyNDY4fQ.LFtJ-h_HyVxRglOvZfqSzp0LnslACbnTOgkMsBxhhuU"
+  ],
+  "createdAt": {
+    "$date": "2023-10-15T11:03:15.396Z"
+  },
+  "__v": 0,
+  "isLoggedIn": 1
+},
+{
+  "_id": {
+    "$oid": "652d2381365001d32e667a64"
+  },
+  "removed": false,
+  "enabled": true,
+  "password": "$2a$10$vjJKakbLuTXSZZSLxxVDbuTdjNwGCpbcZOKrl069ki.L3e1MCxjLG",
+  "email": "sivaprasad@cybersquare.org",
+  "name": "sivaprasad",
+  "surname": "nallattile",
+  "role": "admin",
+  "loggedSessions": [],
+  "createdAt": {
+    "$date": "2023-10-16T11:50:25.558Z"
+  },
+  "__v": 0
+}]

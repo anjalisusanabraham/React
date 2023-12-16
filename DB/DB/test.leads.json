@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "652d1ecf365001d32e66791b"
+  },
+  "removed": false,
+  "enabled": true,
+  "firstName": "Aman",
+  "lastName": "Faraz",
+  "company": "Globex",
+  "jobTitle": "TestEngineer",
+  "email": "faraz@gmail.com",
+  "phone": "9562212859",
+  "address": "COX 123 Heads 9 oppo",
+  "source": "Linked in",
+  "status": "new",
+  "customField": [],
+  "created": {
+    "$date": "2023-10-16T11:30:23.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d1f5a365001d32e66792b"
+  },
+  "removed": false,
+  "enabled": true,
+  "firstName": "Guna",
+  "lastName": "Amman",
+  "company": "NYX Coders",
+  "jobTitle": "Developer",
+  "email": "guna@gmail.com",
+  "phone": "7823452456",
+  "address": "NYX Off-9 5th Floor-Mumbai",
+  "country": "India",
+  "source": "Facebook",
+  "status": "interested",
+  "customField": [],
+  "created": {
+    "$date": "2023-10-16T11:32:42.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652d204f365001d32e667967"
+  },
+  "removed": false,
+  "enabled": true,
+  "firstName": "Sidan",
+  "lastName": "Faizi",
+  "company": "GBS International",
+  "jobTitle": "Operation Manager",
+  "email": "faizi@hotmail.com",
+  "phone": "9003425478",
+  "address": "Test Address",
+  "country": "India",
+  "source": "FB",
+  "status": "reached",
+  "customField": [],
+  "created": {
+    "$date": "2023-10-16T11:36:47.697Z"
+  },
+  "__v": 0
+}]
